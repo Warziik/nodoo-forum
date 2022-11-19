@@ -1,7 +1,7 @@
 {
     "devDependencies": {
         "@babel/preset-react": "^7.0.0",
-        "@symfony/webpack-encore": "^0.28.0",
+        "@symfony/webpack-encore": "^4.1.1",
         "@types/jwt-decode": "^2.2.1",
         "@types/react": "^16.9.11",
         "@types/react-dom": "^16.9.3",
